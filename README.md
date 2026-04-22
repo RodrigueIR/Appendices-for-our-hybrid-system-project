@@ -26,7 +26,7 @@ We’ve included everything you need to understand, replicate, or adapt the proj
 ### 📄 IRB approval
 This confirms the research followed ethical guidelines. We only used public tweets, no personal or identifiable information. The project was reviewed and approved by USIU-Africa’s ethics committee.
 ### 📊 Dataset
-We used publicly available tweets from the 2014–2015 Ebola outbreak. The dataset contains 10,457 tweets with categories like symptoms, news, prevention, and unrelated content. Only 4.3% were symptom-related – which is exactly why you need AI to find the signal in the noise.
+We used publicly available tweets from the 2014–2015 Ebola outbreak (thanks to Karry Harsh on kaggle). The dataset contains 10,457 tweets with categories like symptoms, news, prevention, and unrelated content. Only 4.3% were symptom-related – which is exactly why you need AI to find the signal in the noise.
 ### 💻 Project demo (code)
 This Jupyter notebook contains the full working code:
 - Text cleaning and preprocessing
