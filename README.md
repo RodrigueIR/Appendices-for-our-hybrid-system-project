@@ -56,8 +56,8 @@ Five days doesn’t sound like much. But in an outbreak, five days means:
 - Contact tracers can find exposed people before they spread it further
 - Communities get warnings while they still have time to prepare
 Research shows interventions started 4–7 days earlier can reduce peak outbreak size by 20–40%. In a 1,000-case outbreak, that’s 200–400 people who don’t get sick.
-### That’s what this project is about.
-Built with
+##### That’s what this project is about.
+## Built with
 - Python + Jupyter
 - Scikit-learn (Logistic Regression, TF-IDF)
 - Pandas, Seaborn, Matplotlib
